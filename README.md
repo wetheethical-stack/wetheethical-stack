@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wetheethical-stack&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=wetheethical-stack&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wetheethical-stack&theme=radical&hide_border=true&background=00000000" alt="Streak" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetheethical-stack&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Languages" /> 
