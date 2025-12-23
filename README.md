@@ -3,7 +3,7 @@
 <img align="left" width="120" height="120" src="https://media.licdn.com/dms/image/v2/D5603AQFiKMuIQo6adg/profile-displayphoto-shrink_400_400/B56Zc7_Kz5GoAg-/0/1749058105576?e=1767830400&v=beta&t=KiSgBPsSVcLSIgwpU6nmg7ztyHses14d0xcAbqUVqo0" style="border-radius:50%; margin-right: 20px" />
 
 <h1 style="border-bottom: none; margin-bottom: 0;">RAKESH T S</h1>
-### Artificial intelligence and data science engineer
+# Artificial intelligence and data science engineer
 
 🔭 I’m currently working on * Machine learning and data science*
 
