@@ -2,8 +2,8 @@
 
 <img align="left" width="120" height="120" src="https://media.licdn.com/dms/image/v2/D5603AQFiKMuIQo6adg/profile-displayphoto-shrink_400_400/B56Zc7_Kz5GoAg-/0/1749058105576?e=1767830400&v=beta&t=KiSgBPsSVcLSIgwpU6nmg7ztyHses14d0xcAbqUVqo0" style="border-radius:50%; margin-right: 20px" />
 
-# RAKESH T S
-### Artificial intelligence and data science engineer
+<h1 style="border-bottom: none; margin-bottom: 0;">RAKESH T S</h1>
+<h3 style="border-bottom: none; margin-top: 0;">Artificial intelligence and data science engineer</h3>
 
 🔭 I’m currently working on * Machine learning and data science*
 
@@ -19,8 +19,6 @@
 
 </div>
 
-![Soft](https://capsule-render.vercel.app/api?section=header&height=50&fontSize=90&type=soft&color=auto)
-
 <div align="center">
 
 ![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -28,7 +26,7 @@
 </div>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=0d1117" alt="Quote" />
 </div>
 
 <div align="center">
@@ -38,17 +36,17 @@
 
 <br clear="all" />
 
-### 🚀 Projects
+<h3 style="border-bottom: none;">🚀 Projects</h3>
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
 | **RoleHiveX — Job Portal Live production-grade recruitment platform** | with role-based access. Built for scalable hiring workflows and high-availability delivery | [View](https://rolehivex.vercel.app/) |
 
----
+<br />
 
 <div align="center">
 
-### 🛠️ Tech Stack
+<h3 style="border-bottom: none;">🛠️ Tech Stack</h3>
 
 <table align="center">
 <tr>
@@ -75,10 +73,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wetheethical-stack&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wetheethical-stack&theme=radical&hide_border=true&background=00000000" alt="Streak" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=wetheethical-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wetheethical-stack&theme=radical&hide_border=true&background=0d1117" alt="Streak" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetheethical-stack&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Languages" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetheethical-stack&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Languages" /> 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wetheethical-stack&theme=react-dark&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wetheethical-stack&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
 </div>
