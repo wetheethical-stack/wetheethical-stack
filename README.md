@@ -1,44 +1,40 @@
+<div align="center">
 
-
-
-
-
-<div align="left">
-
-<img align="left" width="120" height="120" src="https://media.licdn.com/dms/image/v2/D5603AQFiKMuIQo6adg/profile-displayphoto-shrink_400_400/B56Zc7_Kz5GoAg-/0/1749058105576?e=1767830400&v=beta&t=KiSgBPsSVcLSIgwpU6nmg7ztyHses14d0xcAbqUVqo0" style="border-radius:50%; margin-right: 20px" />
-
-<h1 style="border-bottom: none; margin-bottom: 0;">RAKESH T S</h1>
-<h4 style="border-bottom: none; margin-bottom: 0;"> Artificial intelligence and data science engineer</h4>
-
-
-🔭 I’m currently working on * Machine learning and data science*
-
-🌱 I’m currently learning DevOps
-
-💬 Ask me about *Machine learning,electronic hobby project,drone technology,pcb designing *
-
-📫 How to reach me rakeshtsraki96@gmail.com
-
-⚡ Fun fact *I am Silent *
-
-<br clear="all" />
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="150" align="center" valign="top">
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQFiKMuIQo6adg/profile-displayphoto-shrink_400_400/B56Zc7_Kz5GoAg-/0/1749058105576?e=1767830400&v=beta&t=KiSgBPsSVcLSIgwpU6nmg7ztyHses14d0xcAbqUVqo0" width="120" height="120" style="border-radius:50%;" />
+    </td>
+    <td valign="top">
+      <h1 style="border: none; margin-bottom: 0; padding-bottom: 0;">RAKESH T S</h1>
+      <h4 style="border: none; margin-top: 5px; color: gray;">Artificial intelligence and data science engineer</h4>
+      <p>
+        🔭 I’m currently working on <b>Machine learning and data science</b><br />
+        🌱 I’m currently learning <b>DevOps</b><br />
+        💬 Ask me about <b>Machine learning, electronic hobby projects, drone technology, PCB designing</b><br />
+        📫 How to reach me: <b>rakeshtsraki96@gmail.com</b><br />
+        ⚡ Fun fact: <b>I am Silent</b>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 ![Soft](https://capsule-render.vercel.app/api?section=header&height=50&fontSize=90&type=soft&color=auto)
 
-<div align="center">
+<br />
 
 ![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-</div>
+<br />
 
-<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</div>
 
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakesh-t-s-2b7b2a255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://instagram.com/https://www.instagram.com/raki4232?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;<a href="https://portfolio-deploy-roan.vercel.app/"><img src="https://img.shields.io/badge/Website-38bdf8?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;</div>
+<br />
+
+<a href="https://www.linkedin.com/in/rakesh-t-s-2b7b2a255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://www.instagram.com/raki4232?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;<a href="https://portfolio-deploy-roan.vercel.app/"><img src="https://img.shields.io/badge/Website-38bdf8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<br /><br />
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=wetheethical-stack&label=Profile%20Views&color=0ea5e9&style=flat" alt="Visitors" /></p>
 
@@ -51,8 +47,6 @@
 | **RoleHiveX — Job Portal Live production-grade recruitment platform** | with role-based access. Built for scalable hiring workflows and high-availability delivery | [View](https://rolehivex.vercel.app/) |
 
 ---
-
-<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -77,14 +71,17 @@
 </tr>
 </table>
 
-</div>
+<br />
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wetheethical-stack&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wetheethical-stack&theme=radical&hide_border=true&background=000000" alt="Streak" /> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=wetheethical-stack&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wetheethical-stack&theme=radical&hide_border=true&background=000000" alt="Streak" /> 
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetheethical-stack&layout=compact&theme=radical&hide_border=true&bg_color=000000" alt="Languages" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetheethical-stack&layout=compact&theme=radical&hide_border=true&bg_color=000000" alt="Languages" /> 
+
+<br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wetheethical-stack&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="Activity Graph" />
+
 </div>
