@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="center" width="30%">
-<div align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQFiKMuIQo6adg/profile-displayphoto-shrink_400_400/B56Zc7_Kz5GoAg-/0/1749058105576?e=1767830400&v=beta&t=KiSgBPsSVcLSIgwpU6nmg7ztyHses14d0xcAbqUVqo0" width="120" style="border-radius: 50%;" /></div>
+<div align="center"><img src="https://drive.google.com/file/d/10kvWbW46orr4DI81cVbOkGexzl0BOmkF/view?usp=sharing" width="120" style="border-radius: 50%;" /></div>
 </td>
 <td valign="center" width="70%">
 <h1>RAKESH T S</h1>
